@@ -1,0 +1,17 @@
+{
+    "background": {
+        "texture": "meplacementtool:textures/gui/cable_tool.png",
+        "srcX": 0,
+        "srcY": 0,
+        "srcWidth": 175,
+        "srcHeight": 256,
+        "destWidth": 175,
+        "destHeight": 256
+    },
+    "slots": {
+        "upgrade": {
+            "x": 152,
+            "y": 8
+        }
+    }
+}
